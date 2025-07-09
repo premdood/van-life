@@ -4,6 +4,9 @@
 
 VanLife is a modern web application that allows users to explore, rent, and list vans for unique travel experiences. Built with React and React Router, this frontend application provides a seamless interface for van enthusiasts to connect, rent, and host vans.
 
+## 🌐 Live Demo
+🔗 [View Live Demo](https://premdood.github.io/van-life)
+
 ## 🌟 Key Features
 
 ### User Features
@@ -112,10 +115,6 @@ Easy to extend with:
 - Mock authentication system
 - Static data sources
 - Limited error handling
-
-## 📞 Contact
-
-Prem Singh - [LinkedIn](https://www.linkedin.com/in/premdood)
 
 ---
 
